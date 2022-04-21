@@ -2,6 +2,23 @@
 Team 4 for Penn State DS 440 Capstone Spring 2022
 
 
+File Breakdown:
+
+Sarah: ResNet and Densenet files.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Used COVID-Net Dataset (https://github.com/lindawangg/COVID-Net) and (https://github.com/ieee8023/covid-chestxray-dataset)
 
 
@@ -12,3 +29,4 @@ and then model of choice (ResNet, etc)
 
 
 then, choose explainability method choice (GradCAM, CAM, LIME, etc) and use with trained model.
+
