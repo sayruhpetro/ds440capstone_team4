@@ -30,3 +30,12 @@ and then model of choice (ResNet, etc)
 
 then, choose explainability method choice (GradCAM, CAM, LIME, etc) and use with trained model.
 
+
+
+Weijia: 
+
+(1) Created deep neutral network based on resnet (https://github.com/sayruhpetro/ds440capstone_team4/blob/main/dnn_resnet.ipynb)
+(2) Used Saliency Mapping (https://github.com/sayruhpetro/ds440capstone_team4/blob/main/saliency_mapping.ipynb)
+(3) Used LIME (https://github.com/sayruhpetro/ds440capstone_team4/blob/main/lime.ipynb)
+
+To run, please follow the guidance in each file, especially parts to set up the running environment.
